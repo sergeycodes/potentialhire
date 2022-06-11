@@ -17,12 +17,18 @@ input {
 }
 
 button {
-    border: none;
+    border: 1px solid #00bcd4;
     color: #fff;
     background-color: #00bcd4;
     margin-top: 5px;
     padding: 10px 20px;
     font-weight: bold;
+    text-transform: uppercase;
+}
+
+#delete-btn {
+    background-color: #fff;
+    color: #00bcd4;
 }
 
 ul {
